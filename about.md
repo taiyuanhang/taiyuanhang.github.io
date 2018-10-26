@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: 关于
 ---
 
-Hello.
+你好。
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+我是一名独立开发者。
 
-**Less is more..**
+**简洁胜于复杂。—— 摘自 Python 之禅**

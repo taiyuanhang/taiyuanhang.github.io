@@ -1,15 +1,15 @@
 # Site Info
-title:              "The Plain"
-description:        "A minimalist Jekyll theme"
-author_name:        "Heiswayi Nrird" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+title:              "你好，我叫邰远航"
+description:        "邰远航,邰远航的博客,Python基础,Python进阶,Python网络爬虫,Web自动化测试,Wap自动化测试,Android自动化测试,手机自动化测试"
+author_name:        "邰远航" # change this to your name
+logo_url:           https://avatars0.githubusercontent.com/u/30522998?s=400&u=cf9ebab74e5b7b532f8d97aab18b78f36fc43127&v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://heiswayi.github.io # main url
-baseurl:            /the-plain
+url:                http://taiyuanhang.me # main url
+baseurl:
 permalink:          /:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to 'false' to disable
+timezone:           Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            false  # enables support for mathjax - set to 'false' to disable
 
 # Site Build
 highlighter:        rouge
